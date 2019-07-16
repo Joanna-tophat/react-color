@@ -10,8 +10,8 @@ export const SwatchesColor = ({ color, onClick = () => {}, onSwatchHover, first,
   const styles = reactCSS({
     'default': {
       color: {
-        width: '40px',
-        height: '24px',
+        width: '70px',
+        height: '40px',
         cursor: 'pointer',
         background: color,
         marginBottom: '1px',

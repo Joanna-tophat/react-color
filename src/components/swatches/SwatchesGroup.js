@@ -8,10 +8,10 @@ export const SwatchesGroup = ({ onClick, onSwatchHover, group, active }) => {
   const styles = reactCSS({
     'default': {
       group: {
-        paddingBottom: '10px',
-        width: '40px',
+        paddingBottom: '15px',
+        width: '70px',
         float: 'left',
-        marginRight: '10px',
+        marginRight: '20px',
       },
     },
   })
